@@ -1,0 +1,4 @@
+#Wed Jun 13 03:21:52 IST 2018
+base.0=G\:\\college\\AndroidStudioProjects\\CPUSCHEDULING\\app\\build\\intermediates\\transforms\\dex\\release\\folders\\1000\\1f\\main
+renamed.0=classes.dex
+file.0=G\:\\college\\AndroidStudioProjects\\CPUSCHEDULING\\app\\build\\intermediates\\transforms\\dex\\release\\folders\\1000\\1f\\main\\classes.dex

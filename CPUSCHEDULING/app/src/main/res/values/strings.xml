@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CPU SCHEDULING</string>
+    <string name="noProcess">Number of processes</string>
+    <string name="noProcessText">Enter an Integer</string>
+    <string name="submit">Submit</string>
+
+</resources>

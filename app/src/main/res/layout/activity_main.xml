@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.example.user.cpuscheduling.MainActivity">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="1.4"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="CPU scheduling is a process which allows one process to use the CPU while the execution of another process is on hold(in waiting state) due to unavailability of any resource like I/O etc, thereby making full use of CPU. The aim of CPU scheduling is to make the system efficient, fast and fair."/>
+
+    </LinearLayout>
+
+    <LinearLayout
+
+        android:layout_marginTop="20dp"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:orientation="horizontal">
+        <TextView
+            android:background="#444fa3"
+            android:layout_marginBottom="1dp"
+            android:layout_marginRight="1dp"
+            android:id="@+id/fcfs"
+            android:textColor="#ffffff"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:gravity="center"
+            android:paddingBottom="5dp"
+            android:paddingTop="5dp"
+            android:text="First come First serve"
+            android:textSize="20dp"
+            android:layout_weight="1" />
+
+        <TextView
+            android:background="#444fa3"
+            android:layout_marginBottom="1dp"
+            android:textColor="#ffffff"
+            android:id="@+id/sjf"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:gravity="center"
+            android:paddingBottom="5dp"
+            android:paddingTop="5dp"
+            android:text="Shortest Job first"
+            android:textSize="20dp"
+            android:layout_weight="1"/>
+    </LinearLayout>
+
+    <LinearLayout
+
+        android:orientation="horizontal"
+        android:layout_marginBottom="20dp"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="1">
+
+
+        <TextView
+            android:background="#444fa3"
+            android:layout_marginRight="1dp"
+            android:textColor="#ffffff"
+            android:id="@+id/rr"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:gravity="center"
+            android:paddingBottom="5dp"
+            android:paddingTop="5dp"
+            android:text="Round robin"
+            android:textSize="20dp"
+            android:layout_weight="1"/>
+
+        <TextView
+            android:background="#444fa3"
+            android:textColor="#ffffff"
+            android:id="@+id/pri"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:gravity="center"
+            android:paddingBottom="5dp"
+            android:paddingTop="5dp"
+            android:text="Priority Based Scheduling"
+            android:textSize="20dp"
+            android:layout_weight="1"/>
+    </LinearLayout>
+
+</LinearLayout>

@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "G:\\college\\AndroidStudioProjects\\CPUSCHEDULING\\app\\build\\intermediates\\res\\merged\\release\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "C:\\Users\\Ningu\\.android\\build-cache\\2b3e801c96b6b8ed23369a666e0b190ec2380032\\output\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "G:\\college\\AndroidStudioProjects\\CPUSCHEDULING\\app\\build\\intermediates\\res\\merged\\release\\anim\\abc_fade_in.xml",
+        "source": "C:\\Users\\Ningu\\.android\\build-cache\\2b3e801c96b6b8ed23369a666e0b190ec2380032\\output\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "G:\\college\\AndroidStudioProjects\\CPUSCHEDULING\\app\\build\\intermediates\\res\\merged\\release\\anim\\abc_slide_in_top.xml",
+        "source": "C:\\Users\\Ningu\\.android\\build-cache\\2b3e801c96b6b8ed23369a666e0b190ec2380032\\output\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "G:\\college\\AndroidStudioProjects\\CPUSCHEDULING\\app\\build\\intermediates\\res\\merged\\release\\anim\\abc_slide_out_top.xml",
+        "source": "C:\\Users\\Ningu\\.android\\build-cache\\2b3e801c96b6b8ed23369a666e0b190ec2380032\\output\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "G:\\college\\AndroidStudioProjects\\CPUSCHEDULING\\app\\build\\intermediates\\res\\merged\\release\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "C:\\Users\\Ningu\\.android\\build-cache\\2b3e801c96b6b8ed23369a666e0b190ec2380032\\output\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "G:\\college\\AndroidStudioProjects\\CPUSCHEDULING\\app\\build\\intermediates\\res\\merged\\release\\anim\\abc_fade_out.xml",
+        "source": "C:\\Users\\Ningu\\.android\\build-cache\\2b3e801c96b6b8ed23369a666e0b190ec2380032\\output\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "G:\\college\\AndroidStudioProjects\\CPUSCHEDULING\\app\\build\\intermediates\\res\\merged\\release\\anim\\abc_popup_exit.xml",
+        "source": "C:\\Users\\Ningu\\.android\\build-cache\\2b3e801c96b6b8ed23369a666e0b190ec2380032\\output\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "G:\\college\\AndroidStudioProjects\\CPUSCHEDULING\\app\\build\\intermediates\\res\\merged\\release\\anim\\abc_slide_in_bottom.xml",
+        "source": "C:\\Users\\Ningu\\.android\\build-cache\\2b3e801c96b6b8ed23369a666e0b190ec2380032\\output\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "G:\\college\\AndroidStudioProjects\\CPUSCHEDULING\\app\\build\\intermediates\\res\\merged\\release\\anim\\abc_popup_enter.xml",
+        "source": "C:\\Users\\Ningu\\.android\\build-cache\\2b3e801c96b6b8ed23369a666e0b190ec2380032\\output\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "G:\\college\\AndroidStudioProjects\\CPUSCHEDULING\\app\\build\\intermediates\\res\\merged\\release\\anim\\abc_slide_out_bottom.xml",
+        "source": "C:\\Users\\Ningu\\.android\\build-cache\\2b3e801c96b6b8ed23369a666e0b190ec2380032\\output\\res\\anim\\abc_slide_out_bottom.xml"
+    }
+]
